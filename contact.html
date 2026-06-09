@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact – De Klerk Detailing | Auto Detailing Lisse</title>
+  <meta name="description" content="Neem contact op met De Klerk Detailing in Lisse via WhatsApp, Instagram, Facebook of TikTok. Wij maken snel een afspraak voor u." />
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    .contact-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; }
+    @media (max-width: 768px) { .contact-grid { grid-template-columns: 1fr; } }
+
+    .contact-channel {
+      display: flex;
+      align-items: center;
+      gap: 1.25rem;
+      background: var(--card-bg);
+      border: 1px solid rgba(30,144,255,0.12);
+      border-radius: 14px;
+      padding: 1.5rem;
+      text-decoration: none;
+      transition: all 0.3s;
+    }
+    .contact-channel:hover { transform: translateY(-3px); border-color: rgba(30,144,255,0.4); box-shadow: 0 12px 35px rgba(30,144,255,0.1); }
+    .contact-channel-icon { width: 52px; height: 52px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0; }
+    .contact-channel h3 { font-size: 1rem; margin-bottom: 0.2rem; }
+    .contact-channel p { font-size: 0.85rem; margin: 0; }
+
+    .ch-wa  { border-color: rgba(37,211,102,0.3); }
+    .ch-wa:hover  { border-color: #25d366; background: rgba(37,211,102,0.04); }
+    .ch-wa  .contact-channel-icon { background: rgba(37,211,102,0.12); }
+    .ch-ig  .contact-channel-icon { background: rgba(225,48,108,0.12); }
+    .ch-fb  .contact-channel-icon { background: rgba(24,119,242,0.12); }
+    .ch-tt  .contact-channel-icon { background: rgba(255,255,255,0.08); }
+    .ch-ph  .contact-channel-icon { background: rgba(30,144,255,0.12); }
+  </style>
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav class="navbar" role="navigation" aria-label="Hoofdnavigatie">
+  <div class="container">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">
+        <div class="nav-logo-icon">🚗</div>
+        De Klerk <span>Detailing</span>
+      </a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="careplan.html">Care Plan</a></li>
+        <li><a href="about.html">Over Ons</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+      <a href="https://wa.me/31630267849?text=Hallo%2C%20ik%20wil%20graag%20een%20afspraak%20maken." class="btn btn-whatsapp nav-cta" target="_blank" rel="noopener">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.116.549 4.109 1.51 5.842L0 24l6.305-1.655A11.953 11.953 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.891 0-3.664-.502-5.198-1.379l-.372-.22-3.863 1.015 1.033-3.763-.242-.387A9.952 9.952 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
+        WhatsApp
+      </a>
+      <button class="hamburger" id="hamburger" aria-label="Menu openen" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</nav>
+<nav class="mobile-menu" id="mobile-menu" aria-label="Mobiel menu">
+  <a href="index.html">Home</a>
+  <a href="services.html">Services</a>
+  <a href="careplan.html">Care Plan</a>
+  <a href="about.html">Over Ons</a>
+  <a href="contact.html">Contact</a>
+  <a href="https://wa.me/31630267849?text=Hallo%2C%20ik%20wil%20graag%20een%20afspraak%20maken." class="btn btn-whatsapp" target="_blank" rel="noopener">📱 WhatsApp Afspraak</a>
+</nav>
+
+<!-- PAGE HERO -->
+<header class="page-hero">
+  <div class="container">
+    <div class="section-label">Neem Contact Op</div>
+    <h1>Contact &amp; <span class="text-light-blue">Afspraak</span></h1>
+    <p style="max-width:580px; margin-top:1rem; font-size:1.1rem;">Bereikbaar via WhatsApp, Instagram, Facebook en TikTok. Wij reageren snel en plannen een afspraak op uw gewenste moment. Altijd persoonlijk.</p>
+  </div>
+</header>
+
+<!-- MAIN CONTACT SECTION -->
+<section class="section">
+  <div class="container">
+    <div class="contact-grid">
+
+      <!-- LEFT: CHANNELS -->
+      <div>
+        <div class="section-label">Contactopties</div>
+        <h2 style="margin-bottom:2rem;">Bereikbaar via <span class="text-light-blue">Alle Kanalen</span></h2>
+
+        <div style="display:flex; flex-direction:column; gap:1rem;" class="fade-in">
+
+          <!-- WhatsApp -->
+          <a href="https://wa.me/31630267849?text=Hallo%2C%20ik%20wil%20graag%20een%20afspraak%20maken." class="contact-channel ch-wa" target="_blank" rel="noopener" aria-label="WhatsApp contact">
+            <div class="contact-channel-icon">
+              <svg width="26" height="26" viewBox="0 0 24 24" fill="#25d366" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.116.549 4.109 1.51 5.842L0 24l6.305-1.655A11.953 11.953 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.891 0-3.664-.502-5.198-1.379l-.372-.22-3.863 1.015 1.033-3.763-.242-.387A9.952 9.952 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
+            </div>
+            <div>
+              <h3>WhatsApp</h3>
+              <p style="color:var(--grey);">06 30267849 · Aanbevolen – snelste reactie</p>
+            </div>
+            <span style="margin-left:auto; color:var(--grey); font-size:1.2rem;">→</span>
+          </a>
+
+          <!-- Phone -->
+          <a href="tel:+31630267849" class="contact-channel ch-ph" aria-label="Bel ons">
+            <div class="contact-channel-icon">📞</div>
+            <div>
+              <h3>Bellen</h3>
+              <p style="color:var(--grey);">06 30267849 · Bereikbaar op werkdagen</p>
+            </div>
+            <span style="margin-left:auto; color:var(--grey); font-size:1.2rem;">→</span>
+          </a>
+
+          <!-- Instagram -->
+          <a href="https://instagram.com/deklerkdetailing" class="contact-channel ch-ig" target="_blank" rel="noopener" aria-label="Instagram">
+            <div class="contact-channel-icon">
+              <svg width="26" height="26" viewBox="0 0 24 24" fill="url(#ig2)" aria-hidden="true"><defs><linearGradient id="ig2" x1="0%" y1="100%" x2="100%" y2="0%"><stop offset="0%" stop-color="#f09433"/><stop offset="25%" stop-color="#e6683c"/><stop offset="50%" stop-color="#dc2743"/><stop offset="75%" stop-color="#cc2366"/><stop offset="100%" stop-color="#bc1888"/></linearGradient></defs><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+            </div>
+            <div>
+              <h3>Instagram DM</h3>
+              <p style="color:var(--grey);">@deklerkdetailing · DM voor afspraken &amp; vragen</p>
+            </div>
+            <span style="margin-left:auto; color:var(--grey); font-size:1.2rem;">→</span>
+          </a>
+
+          <!-- Facebook -->
+          <a href="https://facebook.com/deklerkdetailing" class="contact-channel ch-fb" target="_blank" rel="noopener" aria-label="Facebook">
+            <div class="contact-channel-icon">
+              <svg width="26" height="26" viewBox="0 0 24 24" fill="#1877f2" aria-hidden="true"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+            </div>
+            <div>
+              <h3>Facebook Messenger</h3>
+              <p style="color:var(--grey);">De Klerk Detailing · Stuur een bericht</p>
+            </div>
+            <span style="margin-left:auto; color:var(--grey); font-size:1.2rem;">→</span>
+          </a>
+
+          <!-- TikTok -->
+          <a href="https://tiktok.com/@deklerkdetailing" class="contact-channel ch-tt" target="_blank" rel="noopener" aria-label="TikTok">
+            <div class="contact-channel-icon">
+              <svg width="26" height="26" viewBox="0 0 24 24" fill="white" aria-hidden="true"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1V9.01a6.33 6.33 0 00-.79-.05 6.34 6.34 0 00-6.34 6.34 6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.33-6.34V8.69a8.18 8.18 0 004.78 1.54V6.77a4.85 4.85 0 01-1.01-.08z"/></svg>
+            </div>
+            <div>
+              <h3>TikTok DM</h3>
+              <p style="color:var(--grey);">@deklerkdetailing · Volg ons voor tips &amp; transformaties</p>
+            </div>
+            <span style="margin-left:auto; color:var(--grey); font-size:1.2rem;">→</span>
+          </a>
+        </div>
+      </div>
+
+      <!-- RIGHT: INFO -->
+      <div class="fade-in">
+        <div class="section-label">Praktische Info</div>
+        <h2 style="margin-bottom:2rem;">Wat u moet <span class="text-light-blue">Weten</span></h2>
+
+        <div style="display:flex; flex-direction:column; gap:1.5rem;">
+          <div class="card">
+            <h4 style="color:var(--light-blue); margin-bottom:0.75rem;">📍 Locatie</h4>
+            <p style="font-size:0.9rem;">Lisse, Zuid-Holland, Nederland. Wij werken vanuit ons vaste locatie in Lisse. Exacte adresgegevens worden na afspraakbevestiging gedeeld.</p>
+          </div>
+          <div class="card">
+            <h4 style="color:var(--light-blue); margin-bottom:0.75rem;">📅 Op Afspraak</h4>
+            <p style="font-size:0.9rem;">Wij werken uitsluitend op afspraak. Er is geen inloopservice. Stuur ons een bericht via WhatsApp of social media om een tijdstip te plannen.</p>
+          </div>
+          <div class="card">
+            <h4 style="color:var(--light-blue); margin-bottom:0.75rem;">🕐 Reactietijd</h4>
+            <p style="font-size:0.9rem;">Wij streven ernaar binnen een paar uur te reageren op werkdagen. Via WhatsApp is de reactie doorgaans het snelst.</p>
+          </div>
+          <div class="card">
+            <h4 style="color:var(--light-blue); margin-bottom:0.75rem;">💡 Offerte aanvragen</h4>
+            <p style="font-size:0.9rem;">Stuur een foto van uw voertuig via WhatsApp samen met een beschrijving van wat u zoekt. Wij reageren met een eerlijk advies en prijs.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- MAP / LOCATION VISUAL -->
+<section class="section-sm" style="background:var(--dark-blue);">
+  <div class="container">
+    <div style="background:var(--card-bg); border:1px solid rgba(30,144,255,0.15); border-radius:16px; overflow:hidden;" class="fade-in">
+      <div style="padding:2.5rem; display:flex; align-items:center; gap:2rem; flex-wrap:wrap;">
+        <div style="font-size:3.5rem;">📍</div>
+        <div>
+          <h3 style="margin-bottom:0.5rem;">De Klerk Detailing</h3>
+          <p style="margin:0; font-size:1rem; color:var(--grey);">Lisse, Zuid-Holland · Nederland</p>
+          <p style="margin:0.5rem 0 0; font-size:0.9rem; color:var(--grey);">Werkzaam in Lisse en directe omgeving. Bereikbaar via A44, uitgang Lisse/Hillegom.</p>
+        </div>
+        <div style="margin-left:auto;">
+          <a href="tel:+31630267849" class="btn btn-primary">📞 06 30267849</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- QUICK CTA -->
+<section class="section">
+  <div class="container text-center">
+    <h2 style="margin-bottom:0.75rem;">Direct een <span class="text-light-blue">Afspraak</span>?</h2>
+    <p style="max-width:440px; margin:0 auto 2.5rem;">Stuur ons een WhatsApp bericht met uw voertuig, gewenste service en beschikbaarheid. Wij nemen zo snel mogelijk contact op.</p>
+    <a href="https://wa.me/31630267849?text=Hallo%2C%20ik%20wil%20graag%20een%20afspraak%20maken.%20Mijn%20voertuig%20is%20een%20%5Bmerk%20en%20type%5D%20en%20ik%20ben%20geïnteresseerd%20in%20%5Bservice%5D." class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.116.549 4.109 1.51 5.842L0 24l6.305-1.655A11.953 11.953 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.891 0-3.664-.502-5.198-1.379l-.372-.22-3.863 1.015 1.033-3.763-.242-.387A9.952 9.952 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
+      WhatsApp Afspraak Maken
+    </a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-col">
+        <div class="nav-logo" style="margin-bottom:1rem;">
+          <div class="nav-logo-icon">🚗</div>
+          De Klerk <span style="color:var(--light-blue);">Detailing</span>
+        </div>
+        <p>Premium automotive detailing in Lisse. Gespecialiseerd in keramische coatings, paint correction en maandelijks onderhoud.</p>
+        <p style="margin-top:0.75rem;">📞 <a href="tel:+31630267849" style="color:var(--grey);">06 30267849</a></p>
+        <p>📍 Lisse, Nederland</p>
+      </div>
+      <div class="footer-col">
+        <h4>Pagina's</h4>
+        <a href="index.html">Home</a>
+        <a href="services.html">Services</a>
+        <a href="careplan.html">Care Plan</a>
+        <a href="about.html">Over Ons</a>
+        <a href="contact.html">Contact</a>
+      </div>
+      <div class="footer-col">
+        <h4>Services</h4>
+        <a href="services.html#exterior">Exterior Refresh</a>
+        <a href="services.html#interior">Interior Refresh</a>
+        <a href="services.html#paint">Paint Correction</a>
+        <a href="services.html#coating">Ceramic Coating</a>
+        <a href="services.html#camper">Camper &amp; Caravan</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2024 De Klerk Detailing. Alle rechten voorbehouden.</span>
+      <span>Lisse, Zuid-Holland · Op afspraak</span>
+    </div>
+  </div>
+</footer>
+<script src="nav.js"></script>
+</body>
+</html>
