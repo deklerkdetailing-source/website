@@ -1,0 +1,162 @@
+id,name,industry,keywords,pattern,layout,density,navigation,tone
+1,SaaS Dashboard,Software,saas dashboard analytics metrics software,card-grid,sidebar-main,high,sidebar,professional
+2,E-commerce Store,Retail,ecommerce shop product listing cart checkout,product-grid,header-main-footer,medium,top-nav,friendly
+3,Portfolio Website,Creative,portfolio showcase work gallery designer,hero-scroll,single-column,low,sticky-top,creative
+4,Blog Platform,Media,blog articles posts reading content media,article-list,header-content,medium,top-nav,editorial
+5,Marketing Landing Page,Marketing,landing marketing conversion lead generation,hero-cta,full-width,low,minimal,persuasive
+6,Mobile App Home,Mobile,mobile app home feed notifications,feed-cards,bottom-nav,high,bottom-tab,casual
+7,Admin Panel,Enterprise,admin panel management backend system control,data-table,sidebar-main,high,sidebar,functional
+8,Healthcare Portal,Healthcare,healthcare medical patient health records,clean-cards,sidebar-main,medium,sidebar,trustworthy
+9,Fintech App,Finance,fintech finance banking investment money,data-rich,bottom-tab,high,bottom-tab,professional
+10,EdTech Platform,Education,education learning courses students progress,course-grid,sidebar-main,medium,sidebar,encouraging
+11,Travel Booking,Travel,travel booking flights hotels vacation tours,search-hero,header-main,medium,top-nav,adventurous
+12,Food Delivery App,Food,food delivery restaurant order meals menu,restaurant-grid,bottom-tab,high,bottom-tab,appetizing
+13,Social Media App,Social,social media feed posts comments likes shares,infinite-scroll,bottom-tab,high,bottom-tab,social
+14,B2B Marketplace,Commerce,marketplace vendors products wholesale b2b,product-table,sidebar-main,high,sidebar,professional
+15,CRM Platform,Business,crm customer relationship sales pipeline contacts,kanban-list,sidebar-main,high,sidebar,efficient
+16,Analytics Dashboard,Data,analytics data visualization charts metrics reports,dashboard-grid,sidebar-main,high,sidebar,analytical
+17,Documentation Site,Developer,documentation docs api reference guide technical,toc-content,sidebar-content,medium,sidebar,clear
+18,Gaming Platform,Entertainment,gaming games leaderboard achievements play,immersive-hero,horizontal-scroll,high,bottom-tab,exciting
+19,Beauty & Spa Booking,Beauty,beauty spa wellness massage skincare booking,image-hero,minimal-nav,low,top-nav,luxurious
+20,Fitness Tracker,Health,fitness workout exercise gym tracker health,activity-cards,bottom-tab,medium,bottom-tab,motivating
+21,Real Estate Platform,Property,real estate property listings homes apartments,image-grid,header-main,medium,top-nav,trustworthy
+22,Legal Services,Legal,legal law attorney services contracts compliance,clean-list,sidebar-main,medium,sidebar,authoritative
+23,Automotive Dealership,Automotive,automotive cars dealership vehicles inventory,image-carousel,header-main,medium,top-nav,prestigious
+24,Streaming Platform,Media,streaming video movies shows entertainment,content-grid,minimal-nav,high,sidebar,immersive
+25,News Platform,Media,news articles breaking headlines journalism,article-feed,header-main,high,top-nav,informative
+26,Nonprofit Organization,Nonprofit,nonprofit charity donation volunteer cause impact,story-hero,header-main,low,top-nav,compassionate
+27,Event Management,Events,events conference tickets booking schedule venue,event-cards,header-main,medium,top-nav,energetic
+28,Restaurant Website,Food,restaurant menu dining reservations food chef,image-heavy,header-main,low,minimal,welcoming
+29,Hotel Booking,Travel,hotel booking accommodation room rates travel,image-hero,header-main,medium,top-nav,luxurious
+30,Job Board,Recruitment,job board career listings hiring recruitment,list-filter,header-main,high,top-nav,professional
+31,Music Platform,Music,music streaming playlist songs artist album,dark-immersive,bottom-tab,high,bottom-tab,atmospheric
+32,Video Platform,Media,video youtube upload creator content watch,thumbnail-grid,sidebar-main,high,sidebar,engaging
+33,Crypto Exchange,Finance,crypto cryptocurrency blockchain trading exchange,data-dense,sidebar-main,high,sidebar,technical
+34,AI Tool Dashboard,AI,artificial intelligence ai tool generator saas,minimal-clean,sidebar-main,medium,sidebar,futuristic
+35,Document Scanner App,Productivity,scanner document ocr camera capture pdf,action-focused,bottom-tab,low,bottom-tab,utility
+36,Task Manager App,Productivity,tasks todo list project management organize,list-kanban,bottom-tab,medium,bottom-tab,productive
+37,Notes App,Productivity,notes notebook writing journal text organize,editor-list,bottom-tab,medium,bottom-tab,calm
+38,Calendar App,Productivity,calendar schedule events appointments dates,calendar-grid,bottom-tab,medium,bottom-tab,organized
+39,Project Management,Business,project management team collaboration sprint agile,kanban-board,sidebar-main,high,sidebar,collaborative
+40,E-learning Course,Education,elearning online course video lessons quiz,lesson-player,sidebar-content,medium,sidebar,educational
+41,Meditation App,Wellness,meditation mindfulness wellness breathing calm,serene-minimal,bottom-tab,low,bottom-tab,peaceful
+42,Recipe App,Food,recipes cooking ingredients chef meals food,recipe-cards,bottom-tab,medium,bottom-tab,appetizing
+43,Finance Tracker,Finance,personal finance budget expenses income tracker,data-cards,bottom-tab,medium,bottom-tab,organized
+44,Weather App,Utility,weather forecast temperature climate conditions,visual-data,minimal,low,minimal,clear
+45,Podcast Platform,Media,podcast audio show episodes subscribe listen,audio-cards,bottom-tab,medium,bottom-tab,engaging
+46,Photo Editing App,Creative,photo editor filters effects camera creative,tool-canvas,bottom-tab,high,bottom-tab,creative
+47,Dating App,Social,dating matches profile swipe relationships,card-swipe,bottom-tab,medium,bottom-tab,playful
+48,Ride Sharing App,Transport,ride sharing uber taxi transport location,map-focused,minimal,low,minimal,reliable
+49,Grocery Delivery,Food,grocery delivery supermarket shopping list,product-grid,bottom-tab,high,bottom-tab,convenient
+50,Investment Platform,Finance,investment portfolio stocks market financial,chart-heavy,sidebar-main,high,sidebar,sophisticated
+51,Insurance Platform,Finance,insurance policy claims coverage protection,clean-cards,sidebar-main,medium,sidebar,trustworthy
+52,Telehealth App,Healthcare,telehealth doctor video consultation medical,clean-minimal,bottom-tab,low,bottom-tab,reassuring
+53,Pet Care Platform,Lifestyle,pet care veterinary grooming pet shop animal,friendly-cards,top-nav,medium,top-nav,friendly
+54,Home Automation,IoT,smart home automation devices iot control panel,dashboard-controls,sidebar-main,high,sidebar,technical
+55,Fashion Store,Retail,fashion clothing apparel style trends boutique,editorial-grid,header-main,medium,top-nav,stylish
+56,Luxury Goods,Retail,luxury premium brand exclusive high-end goods,editorial-minimal,header-main,low,minimal,prestigious
+57,Sports App,Sports,sports scores live match teams leagues tracker,live-data,bottom-tab,high,bottom-tab,dynamic
+58,Kids Learning App,Education,kids children learning games educational fun,playful-cards,bottom-tab,low,bottom-tab,playful
+59,Pharmacy App,Healthcare,pharmacy medicine prescription drugs health,clean-list,bottom-tab,medium,bottom-tab,clinical
+60,Car Rental,Automotive,car rental vehicle hire lease transport booking,card-grid,header-main,medium,top-nav,reliable
+61,Freelance Platform,Business,freelance marketplace gig work contracts hire,profile-list,sidebar-main,high,sidebar,professional
+62,Subscription Box,Commerce,subscription box monthly curated products,story-cards,header-main,medium,top-nav,delightful
+63,Online Banking,Finance,online banking account transfer payment statements,secure-clean,sidebar-main,medium,sidebar,trustworthy
+64,Language Learning,Education,language learning vocabulary grammar practice,lesson-cards,bottom-tab,medium,bottom-tab,encouraging
+65,Interior Design,Design,interior design home decor furniture inspiration,mood-board,header-main,medium,top-nav,elegant
+66,Architecture Firm,Architecture,architecture design buildings projects portfolio,portfolio-grid,header-main,low,minimal,prestigious
+67,Accounting Software,Finance,accounting bookkeeping invoices taxes financial,data-table,sidebar-main,high,sidebar,precise
+68,HR Platform,Business,hr human resources employees onboarding payroll,clean-table,sidebar-main,high,sidebar,efficient
+69,Supply Chain,Logistics,supply chain logistics inventory warehouse tracking,data-map,sidebar-main,high,sidebar,operational
+70,Customer Support,Service,customer support helpdesk tickets chat support,ticket-list,sidebar-main,high,sidebar,helpful
+71,Email Marketing,Marketing,email marketing campaigns newsletters analytics,campaign-grid,sidebar-main,high,sidebar,strategic
+72,Social Analytics,Analytics,social media analytics insights followers engagement,chart-dashboard,sidebar-main,high,sidebar,analytical
+73,Video Conference,Communication,video conference call meeting zoom remote,meeting-grid,minimal,medium,minimal,professional
+74,Messaging App,Communication,messaging chat text conversation contact,conversation-list,bottom-tab,high,bottom-tab,social
+75,VPN Service,Security,vpn security privacy protection network,minimal-clean,minimal,low,minimal,trustworthy
+76,Cloud Storage,Productivity,cloud storage files documents backup sync,file-tree,sidebar-main,high,sidebar,reliable
+77,Password Manager,Security,password manager security vault credentials,secure-list,sidebar-main,medium,sidebar,secure
+78,Code Editor (Web),Developer,code editor ide development programming tool,dark-editor,sidebar-content,high,sidebar,technical
+79,Design Tool,Creative,design tool vector figma prototyping creative,canvas-toolbar,sidebar-content,high,sidebar,creative
+80,API Testing Tool,Developer,api testing postman rest endpoints developer,request-panel,sidebar-main,high,sidebar,technical
+81,Database GUI,Developer,database gui mysql query tables management,table-editor,sidebar-main,high,sidebar,technical
+82,Monitoring Dashboard,DevOps,monitoring server uptime alerts logs devops,alert-dashboard,sidebar-main,high,sidebar,operational
+83,Deployment Platform,DevOps,deployment pipeline ci cd devops hosting,pipeline-view,sidebar-main,high,sidebar,technical
+84,Error Tracking,DevOps,error tracking bugs exceptions logs monitoring,issue-list,sidebar-main,high,sidebar,technical
+85,Form Builder,Productivity,form builder survey questionnaire drag drop,builder-canvas,sidebar-main,medium,sidebar,intuitive
+86,Quiz Platform,Education,quiz assessment tests questions scoring grade,question-flow,header-main,medium,top-nav,engaging
+87,Survey Tool,Research,survey feedback responses analytics research,question-list,sidebar-main,medium,sidebar,professional
+88,Affiliate Marketing,Marketing,affiliate marketing links commissions referral,data-table,sidebar-main,high,sidebar,commercial
+89,Content Management,CMS,content management cms blog articles pages,content-editor,sidebar-main,high,sidebar,editorial
+90,Inventory Management,Business,inventory stock items warehouse management,table-grid,sidebar-main,high,sidebar,operational
+91,Order Management,Commerce,orders fulfillment shipping tracking e-commerce,order-list,sidebar-main,high,sidebar,operational
+92,Shipping Platform,Logistics,shipping courier package delivery tracking,tracking-timeline,sidebar-main,medium,sidebar,reliable
+93,Payment Gateway,Finance,payment gateway transactions processing checkout,secure-clean,sidebar-main,medium,sidebar,trustworthy
+94,Loyalty Program,Marketing,loyalty rewards points customer retention,rewards-cards,bottom-tab,medium,bottom-tab,rewarding
+95,Gift Cards App,Commerce,gift cards digital vouchers presents shopping,card-visual,bottom-tab,low,bottom-tab,celebratory
+96,Ticketing System,Events,tickets events booking seats venue purchase,seat-map,header-main,medium,top-nav,exciting
+97,Auction Platform,Commerce,auction bidding items marketplace competitive,countdown-list,header-main,high,top-nav,dynamic
+98,Review Platform,Consumer,reviews ratings products services feedback,review-list,header-main,medium,top-nav,community
+99,Comparison Site,Consumer,price comparison products deals best savings,comparison-table,header-main,high,top-nav,informative
+100,Classified Ads,Commerce,classifieds ads selling buying local marketplace,list-grid,header-main,high,top-nav,practical
+101,Directory Platform,Business,directory listings local business search find,search-list,header-main,medium,top-nav,organized
+102,Community Forum,Social,community forum discussion threads posts replies,thread-list,header-main,high,top-nav,communal
+103,Q&A Platform,Knowledge,questions answers community knowledge help,qa-list,header-main,high,top-nav,helpful
+104,Wiki Platform,Knowledge,wiki knowledge base documentation articles,content-tree,sidebar-content,high,sidebar,informative
+105,Mentorship Platform,Education,mentorship coaching sessions booking video,profile-cards,header-main,medium,top-nav,inspiring
+106,Crowdfunding Platform,Finance,crowdfunding campaigns fund raise backer,campaign-cards,header-main,medium,top-nav,inspiring
+107,Peer-to-Peer Lending,Finance,p2p lending loans investors borrowers,data-table,sidebar-main,high,sidebar,financial
+108,Robo-Advisor,Finance,robo advisor automated investing portfolio,chart-minimal,sidebar-main,medium,sidebar,trustworthy
+109,Tax Filing Software,Finance,tax filing returns deductions irs forms,step-wizard,sidebar-main,high,sidebar,precise
+110,Expense Report,Business,expense report receipts reimbursement travel,list-form,sidebar-main,medium,sidebar,efficient
+111,Time Tracking,Business,time tracking billable hours project logging,timer-list,sidebar-main,medium,sidebar,productive
+112,Contract Management,Legal,contracts legal documents signatures management,document-list,sidebar-main,high,sidebar,authoritative
+113,Compliance Platform,Legal,compliance regulatory risk audit legal,table-status,sidebar-main,high,sidebar,formal
+114,Background Check,Legal,background check screening employment verification,step-flow,sidebar-main,medium,sidebar,trustworthy
+115,Fleet Management,Logistics,fleet management vehicles routes drivers gps,map-data,sidebar-main,high,sidebar,operational
+116,Construction Management,Construction,construction project site management workforce,gantt-view,sidebar-main,high,sidebar,industrial
+117,Agriculture Platform,Agriculture,agriculture farm crops soil weather yield,data-map,sidebar-main,medium,sidebar,natural
+118,Energy Management,Utilities,energy consumption electricity solar management,chart-gauge,sidebar-main,high,sidebar,technical
+119,Water Management,Utilities,water utility consumption monitoring management,chart-map,sidebar-main,high,sidebar,environmental
+120,Waste Management,Environment,waste recycling sustainability tracking reports,data-cards,sidebar-main,medium,sidebar,environmental
+121,Space Booking,Business,space booking meeting room coworking office,calendar-grid,sidebar-main,medium,sidebar,efficient
+122,Parking App,Transport,parking booking spot reserve vehicle location,map-spots,minimal,low,minimal,convenient
+123,Bike Sharing App,Transport,bike sharing cycling rental station location,map-focused,minimal,low,minimal,eco-friendly
+124,EV Charging,Automotive,electric vehicle ev charging station location,map-stations,minimal,low,minimal,modern
+125,Home Services,Services,home services repair plumber electrician booking,service-cards,bottom-tab,medium,bottom-tab,reliable
+126,Moving Services,Services,moving relocation packing boxes transport,checklist,header-main,medium,top-nav,reliable
+127,Cleaning Services,Services,cleaning maid house service booking schedule,booking-cards,header-main,low,top-nav,clean
+128,Tutoring Platform,Education,tutoring private lesson student teacher session,profile-list,header-main,medium,top-nav,educational
+129,Library Platform,Education,library books borrowing catalog search reading,catalog-list,sidebar-main,medium,sidebar,scholarly
+130,Genealogy App,Lifestyle,genealogy family tree history ancestors records,tree-view,sidebar-main,medium,sidebar,historical
+131,Astrology App,Lifestyle,astrology horoscope zodiac birth chart daily,mystic-minimal,bottom-tab,low,bottom-tab,mystical
+132,Cooking Class,Food,cooking class recipe instruction video chef,lesson-player,header-main,medium,top-nav,educational
+133,Wine Platform,Food,wine tasting cellar sommelier collection review,editorial-elegant,header-main,low,top-nav,sophisticated
+134,Coffee Shop App,Food,coffee shop menu order loyalty reward local,minimal-warm,bottom-tab,medium,bottom-tab,cozy
+135,Beer & Brewery,Food,beer craft brewery tap room menu events,rustic-bold,header-main,medium,top-nav,casual
+136,Wellness Journal,Health,wellness journal mood tracking mental health,journal-minimal,bottom-tab,low,bottom-tab,calming
+137,Sleep Tracker,Health,sleep tracking cycle rest alarm quality health,dark-calm,bottom-tab,low,bottom-tab,serene
+138,Habit Tracker,Productivity,habits daily routine streak goals tracking,progress-cards,bottom-tab,medium,bottom-tab,motivating
+139,Budgeting App,Finance,budget spending savings income categories,chart-list,bottom-tab,medium,bottom-tab,organized
+140,Kids Finance,Education,kids allowance savings money education piggybank,playful-cards,bottom-tab,low,bottom-tab,educational
+141,NFT Marketplace,Crypto,nft marketplace digital art collectibles blockchain,dark-gallery,header-main,medium,top-nav,creative
+142,Metaverse Platform,Tech,metaverse virtual world avatar 3d immersive,immersive-3d,minimal,medium,minimal,futuristic
+143,AR Shopping,Retail,augmented reality ar shopping try-on product,ar-overlay,minimal,low,minimal,innovative
+144,VR Education,Education,virtual reality vr education immersive learning,immersive-3d,minimal,low,minimal,futuristic
+145,Smart Watch App,IoT,smartwatch wearable health notification glance,glanceable,none,low,none,minimal
+146,Smart TV App,Entertainment,smart tv streaming remote control content,television-layout,remote-nav,high,remote-nav,entertaining
+147,Kiosk Interface,Retail,kiosk self-service checkout touchscreen store,large-touch,minimal,low,minimal,intuitive
+148,POS System,Retail,point of sale pos cashier transaction retail,large-interface,minimal,medium,minimal,efficient
+149,Digital Menu,Food,digital menu qr code restaurant order scan,full-screen,minimal,medium,minimal,clean
+150,Wayfinding App,Navigation,wayfinding navigation indoor map location guide,map-overlay,minimal,low,minimal,helpful
+151,Event App,Events,event app conference session agenda speaker,agenda-schedule,bottom-tab,medium,bottom-tab,organized
+152,Sports Betting,Gaming,sports betting odds matches wagering live,data-live,sidebar-main,high,sidebar,exciting
+153,Fantasy Sports,Gaming,fantasy sports team draft league competition,draft-board,sidebar-main,high,sidebar,competitive
+154,Trivia Game,Gaming,trivia quiz game questions competitive fun,game-minimal,minimal,medium,minimal,playful
+155,Escape Room,Entertainment,escape room puzzle game interactive mystery,dark-mystery,minimal,low,minimal,immersive
+156,Augmented Map,Navigation,augmented reality map location poi explore,map-ar,minimal,medium,minimal,exploratory
+157,Drone Management,Tech,drone fleet management route planning telemetry,map-data,sidebar-main,high,sidebar,technical
+158,Telematics Platform,Automotive,telematics vehicle tracking gps fleet data,map-data,sidebar-main,high,sidebar,analytical
+159,Maintenance App,Industrial,maintenance repair schedule asset tracking,checklist-list,sidebar-main,high,sidebar,operational
+160,Safety Platform,Industrial,safety compliance incidents reporting workplace,alert-list,sidebar-main,high,sidebar,critical
+161,Detailing Service,Automotive,car detailing automotive cleaning service luxury polish,service-showcase,header-main,low,minimal,premium

@@ -1,0 +1,58 @@
+id,name,heading_font,body_font,mono_font,heading_weight,body_weight,scale,line_height,letter_spacing,keywords,best_for,notes
+1,Geist + Inter,Geist,Inter,JetBrains Mono,700,400,1.25,1.6,-0.02em,modern clean saas developer,SaaS dashboards developer tools,Vercel's default stack - pairs AI precision with humanist legibility
+2,Playfair Display + Lato,Playfair Display,Lato,Courier New,700,400,1.333,1.7,0em,editorial elegant luxury serif,Luxury brands editorial blogs,High contrast serif/sans pairing - classic and sophisticated
+3,Space Grotesk + DM Sans,Space Grotesk,DM Sans,Space Mono,700,400,1.25,1.6,-0.01em,geometric tech modern startup,Tech startups product pages,Geometric personality with soft readability
+4,Sora + Nunito,Sora,Nunito,Fira Code,700,400,1.333,1.7,0em,friendly playful consumer,Consumer apps kids education,Rounded friendly combination for approachable products
+5,Clash Display + Satoshi,Clash Display,Satoshi,JetBrains Mono,700,400,1.2,1.55,-0.03em,bold modern premium brand,Premium brands fashion,High-impact display with clean body text
+6,Plus Jakarta Sans + Source Sans 3,Plus Jakarta Sans,Source Sans 3,Source Code Pro,600,400,1.25,1.65,-0.01em,professional versatile clean,Corporate SaaS enterprise,Versatile professional pairing for business products
+7,Fraunces + Manrope,Fraunces,Manrope,JetBrains Mono,700,400,1.414,1.7,0em,editorial warm literary,Editorial blogs creative agencies,Optical size serif with modern geometric body
+8,Cal Sans + Inter,Cal Sans,Inter,JetBrains Mono,700,400,1.25,1.6,-0.02em,saas modern product clean,SaaS products developer tools,CalSans gives friendly character to Inter's utility
+9,Bricolage Grotesque + DM Sans,Bricolage Grotesque,DM Sans,Fira Code,700,400,1.25,1.6,-0.01em,expressive modern editorial,Creative SaaS editorial,Variable expressive heading with clean body
+10,Cormorant Garamond + Jost,Cormorant Garamond,Jost,Courier New,600,400,1.414,1.75,0.01em,luxury editorial classic,Luxury beauty fashion editorial,Refined classical serif with modern geometric body
+11,Neue Haas Grotesk + Neue Haas Text,Neue Haas Grotesk,Neue Haas Grotesk,Source Code Pro,600,400,1.25,1.6,-0.02em,swiss systematic typography,Swiss-inspired editorial design,Swiss typographic precision
+12,Unbounded + Inter,Unbounded,Inter,JetBrains Mono,800,400,1.2,1.55,-0.03em,bold crypto web3 modern,Crypto NFT blockchain modern,Ultra-wide display for modern web3 aesthetic
+13,Montserrat + Open Sans,Montserrat,Open Sans,Consolas,700,400,1.25,1.65,-0.01em,classic versatile professional,General purpose websites,Timeless professional pairing used widely
+14,Raleway + Lato,Raleway,Lato,Courier New,700,400,1.333,1.7,0.02em,elegant light clean,Fashion beauty lifestyle,Light elegant heading with reliable body text
+15,Oswald + Source Sans 3,Oswald,Source Sans 3,Source Code Pro,700,400,1.25,1.6,-0.01em,bold condensed strong,Sports news headlines impact,Condensed impact heading for strong content
+16,Poppins + Nunito,Poppins,Nunito,Fira Code,600,400,1.25,1.7,0em,friendly rounded consumer,Consumer apps marketplaces,Very popular rounded combination
+17,DM Serif Display + DM Sans,DM Serif Display,DM Sans,DM Mono,700,400,1.333,1.65,0em,refined modern contrast,Premium SaaS editorial,Beautiful contrast within the DM family
+18,Instrument Serif + Instrument Sans,Instrument Serif,Instrument Sans,JetBrains Mono,400,400,1.333,1.7,0em,editorial modern minimal,Editorial design journalism,Instrument family pairing - editorial and refined
+19,Libre Baskerville + Source Sans 3,Libre Baskerville,Source Sans 3,Source Code Pro,700,400,1.333,1.75,0.01em,classic readable academic,Documentation academic content,High readability classic pairing
+20,Work Sans + Work Sans,Work Sans,Work Sans,Fira Mono,700,400,1.25,1.65,-0.01em,systematic clean minimal,Design tools documentation,Single font family used systematically
+21,IBM Plex Sans + IBM Plex Serif,IBM Plex Sans,IBM Plex Serif,IBM Plex Mono,600,400,1.25,1.65,-0.01em,technical systematic IBM,Developer tools technical docs,IBM design system authentic pairing
+22,Manrope + Inter,Manrope,Inter,JetBrains Mono,700,400,1.25,1.6,-0.01em,geometric clean modern,SaaS mobile apps fintech,Both geometric but distinct character contrast
+23,Cinzel + Raleway,Cinzel,Raleway,Courier New,700,300,1.414,1.75,0.05em,classical elegant prestigious,Legal luxury historical,Roman classical meets modern thin body
+24,Bebas Neue + Lato,Bebas Neue,Lato,Courier New,400,400,1.2,1.6,0.1em,bold display impact,Sports fitness gaming agency,Massive uppercase impact heading
+25,Righteous + Open Sans,Righteous,Open Sans,Consolas,400,400,1.25,1.65,0.02em,retro friendly consumer,Food delivery casual apps,Warm retro character heading
+26,Abril Fatface + Lato,Abril Fatface,Lato,Courier New,400,400,1.333,1.7,0em,display fashion editorial bold,Fashion editorial magazines,Ultra-bold display for maximum visual impact
+27,Lora + Source Sans 3,Lora,Source Sans 3,Source Code Pro,700,400,1.333,1.75,0.01em,literary warm editorial,Long-form content blogs,Warm italic-friendly serif for text-heavy sites
+28,Josefin Sans + Josefin Slab,Josefin Sans,Josefin Slab,Courier New,700,400,1.25,1.65,0.05em,art deco geometric retro,Boutiques vintage brands,Geometric Art Deco personality throughout
+29,Arvo + Lato,Arvo,Lato,Consolas,700,400,1.333,1.7,0em,solid editorial technical,Documentation technical blogs,Sturdy slab serif with clean body text
+30,Quicksand + Open Sans,Quicksand,Open Sans,Consolas,600,400,1.25,1.7,0em,rounded friendly light,Lifestyle wellness kids,Ultra-friendly rounded geometry
+31,Exo + Open Sans,Exo,Open Sans,Consolas,700,400,1.25,1.65,-0.01em,futuristic tech sci-fi,Tech gaming AI startups,Futuristic heading with readable body
+32,Noto Sans + Noto Serif,Noto Sans,Noto Serif,Noto Sans Mono,600,400,1.25,1.7,0em,global multi-language versatile,Multilingual global apps,Google's universal multilingual support
+33,Cabin + Lato,Cabin,Lato,Courier New,700,400,1.25,1.65,0em,humanist warm approachable,Healthcare wellness apps,Warm humanist combination - approachable
+34,Rubik + Open Sans,Rubik,Open Sans,Fira Code,700,400,1.25,1.65,0em,friendly bold geometric,Consumer fintech apps,Rounded heading with reliable open body
+35,Lexend + Inter,Lexend,Inter,JetBrains Mono,700,400,1.25,1.7,0em,readable accessibility dyslexia,Accessibility-first products,Lexend designed for reading speed and comfort
+36,Nunito + Nunito Sans,Nunito,Nunito Sans,Fira Code,700,400,1.25,1.7,0em,playful minimal consistent,Kids apps consumer,Single family rounded consistency
+37,Barlow Condensed + Barlow,Barlow Condensed,Barlow,Source Code Pro,700,400,1.2,1.6,-0.01em,bold condensed structured,News sports dashboard headers,Condensed headline with wider body from same family
+38,Spectral + Source Sans 3,Spectral,Source Sans 3,Source Code Pro,700,400,1.333,1.75,0.01em,screen-optimized serif content,Long-form reading e-books,Spectral optimized for screen reading
+39,Merriweather + Open Sans,Merriweather,Open Sans,Consolas,700,400,1.333,1.8,0em,readable warm traditional,Blogs newspapers documentation,Highly readable combination - widely trusted
+40,Cardo + Lato,Cardo,Lato,Courier New,400,400,1.414,1.8,0.01em,classical scholarly academic,Academic journals literary,Scholarly classical serif
+41,Literata + Inter,Literata,Inter,JetBrains Mono,700,400,1.333,1.75,0em,google play books reading,E-reading content platforms,Google Play Books design
+42,Crimson Pro + Work Sans,Crimson Pro,Work Sans,Fira Mono,600,400,1.333,1.75,0em,editorial literary contemporary,Literary publications editorial,Contemporary take on classic Renaissance typography
+43,Yeseva One + Josefin Sans,Yeseva One,Josefin Sans,Courier New,400,300,1.414,1.7,0.03em,decorative fashion luxury,Boutique fashion luxury brand,Decorative serif meets geometric sans
+24,Outfit + DM Sans,Outfit,DM Sans,DM Mono,700,400,1.25,1.65,-0.01em,modern minimal clean geometric,Consumer apps SaaS modern,Both geometric but with distinct character widths
+45,Libre Franklin + Libre Franklin,Libre Franklin,Libre Franklin,Courier New,700,400,1.25,1.65,0em,news systematic editorial,News apps editorial content,Franklin Gothic inspired systematic pairing
+46,Big Shoulders Display + Roboto,Big Shoulders Display,Roboto,Roboto Mono,800,400,1.2,1.55,-0.02em,industrial bold display strong,Industrial manufacturing automotive,Industrial condensed with reliable Roboto body
+47,Permanent Marker + Nunito,Permanent Marker,Nunito,Courier New,400,400,1.4,1.7,0em,handwritten casual informal,Creative kids casual apps,Handwritten personality with legible body
+48,Alfa Slab One + Lato,Alfa Slab One,Lato,Courier New,400,400,1.333,1.65,0em,bold statement slab impact,Advertising impact campaigns,Chunky slab serif for bold statements
+49,Bodoni Moda + Jost,Bodoni Moda,Jost,Source Code Pro,400,400,1.414,1.75,0.02em,high fashion editorial luxury,High fashion luxury editorial,High contrast modern Bodoni with clean body
+50,Castoro + Nunito,Castoro,Nunito,Fira Code,400,400,1.333,1.7,0.01em,editorial display refined,Boutique editorial refined,Elegant display with friendly body
+51,Funnel Display + Inter,Funnel Display,Inter,JetBrains Mono,700,400,1.25,1.6,-0.02em,saas clean landing,SaaS landing pages,Clean modern SaaS landing combination
+52,Epilogue + Inter,Epilogue,Inter,JetBrains Mono,700,400,1.25,1.6,-0.02em,startup modern neutral,Startup products clean tools,Neutral yet characterful heading
+53,Chivo + Chivo Mono,Chivo,Chivo,Chivo Mono,700,400,1.25,1.65,0em,clean mono option developer,Developer tools technical,Consistent family with mono companion
+54,Red Hat Display + Red Hat Text,Red Hat Display,Red Hat Text,Red Hat Mono,700,400,1.25,1.65,0em,red hat tech systematic,Enterprise developer tools,Red Hat design system authentic
+55,Lexend Deca + Lexend,Lexend Deca,Lexend,JetBrains Mono,700,400,1.25,1.7,0em,legibility focused accessibility,Accessibility mobile apps,Maximum reading ease combination
+56,Reem Kufi + Cairo,Reem Kufi,Cairo,Courier New,700,400,1.333,1.8,0em,arabic rtl multilingual,Arabic and multilingual apps,Arabic script support pairing
+57,Syne + Space Grotesk,Syne,Space Grotesk,Space Mono,700,400,1.2,1.6,-0.02em,creative bold artistic modern,Creative agencies art portfolios,Expressive artistic heading with geometric body

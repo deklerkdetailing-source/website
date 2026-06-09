@@ -1,0 +1,83 @@
+id,name,category,weights,variable,keywords,popular,pairing_with,best_for,specimen_note
+1,Inter,Sans-serif,100-900,yes,clean modern ui versatile neutral,yes,JetBrains Mono,SaaS dashboards developer tools enterprise,Designed specifically for screen readability
+2,Roboto,Sans-serif,100-900,yes,google material android versatile,yes,Roboto Mono,Android apps material design general purpose,Google's system font clean and reliable
+3,Open Sans,Sans-serif,300-800,yes,friendly neutral professional readable,yes,Montserrat,Websites apps marketing general,Humanist with high readability
+4,Lato,Sans-serif,100-900,no,elegant light friendly professional,yes,Playfair Display,Marketing blogs corporate,Polish and warmth combined
+5,Montserrat,Sans-serif,100-900,yes,geometric bold modern heading,yes,Open Sans,Landing pages brand sites,Strong geometric personality
+6,Poppins,Sans-serif,100-900,no,rounded friendly consumer soft,yes,Nunito,Consumer apps lifestyle,Indian Type Foundry rounded character
+7,Nunito,Sans-serif,200-900,yes,rounded playful friendly soft,yes,Poppins,Kids apps consumer games,Extra rounded terminals charming
+8,DM Sans,Sans-serif,100-900,yes,geometric clean minimal modern,yes,Space Grotesk,SaaS apps clean tools,Low-contrast geometric
+9,Plus Jakarta Sans,Sans-serif,200-800,yes,professional versatile clean heading,yes,Source Sans 3,Corporate SaaS business,Dynamic proportions versatile
+10,Source Sans 3,Sans-serif,200-900,yes,legible readable text professional,yes,Playfair Display,Long-form content documentation,Adobe's workhorse text font
+11,Noto Sans,Sans-serif,100-900,yes,multilingual global neutral,yes,Noto Serif,Multilingual international apps,Covers 1000+ languages
+12,Raleway,Sans-serif,100-900,yes,elegant thin modern heading luxury,yes,Lato,Fashion beauty branding,Elegant unicase W letterform
+13,Outfit,Sans-serif,100-900,yes,modern geometric clean minimal,yes,DM Sans,Modern startups SaaS,Clean geometric Swiss influenced
+14,Manrope,Sans-serif,200-800,yes,geometric heading modern clean,yes,Inter,SaaS fintech heading,Open geometry friendly yet professional
+15,Space Grotesk,Sans-serif,300-700,yes,geometric tech distinctive modern,yes,DM Sans,Tech startups developer,Quirky geometry for distinctiveness
+16,Sora,Sans-serif,100-800,yes,rounded clean modern friendly,yes,Nunito,Consumer apps mobile,Japanese foundry clean rounded
+17,Bricolage Grotesque,Display,200-800,yes,expressive variable editorial bold,no,DM Sans,Creative SaaS editorial,Variable optical sizing expressive
+18,Urbanist,Sans-serif,100-900,yes,geometric clean minimal modern,yes,Inter,Landing pages SaaS,Geometric based on Raleway DNA
+19,Geist,Sans-serif,100-900,yes,vercel modern developer clean,no,JetBrains Mono,Developer tools SaaS,Vercel's custom typeface
+20,Lexend,Sans-serif,100-900,yes,readable legibility accessibility dyslexia,no,Inter,Accessibility-first products,Designed to improve reading proficiency
+21,Instrument Sans,Sans-serif,400-700,yes,modern editorial clean minimal,no,Instrument Serif,Editorial modern brands,Instrument family companion
+22,Figtree,Sans-serif,300-900,yes,rounded geometric modern clean,no,Inter,SaaS consumer apps,Geometric rounded modern design
+23,Barlow,Sans-serif,100-900,no,condensed news structured modern,yes,Barlow Condensed,News sports editorial,Informal low-contrast
+24,Karla,Sans-serif,200-800,yes,quirky friendly warm humanist,yes,Merriweather,Blogs personal brands,Slightly quirky character friendly
+25,Mulish,Sans-serif,200-900,yes,geometric clean minimal sans,yes,Merriweather,Documentation clean products,Geometric minimalist
+26,Nunito Sans,Sans-serif,200-900,yes,rounded light friendly reading,yes,Nunito,Consumer apps marketing,Sans sibling to Nunito
+27,Cabin,Sans-serif,400-700,yes,humanist warm accessible,yes,Lora,Healthcare wellness education,Humanist with Euro-style inflection
+28,Rubik,Sans-serif,300-900,yes,rounded geometric friendly bold,yes,Open Sans,Consumer fintech apps,Slightly rounded corners friendly
+29,Work Sans,Sans-serif,100-900,yes,systematic medium-contrast text,yes,Libre Baskerville,Design tools documentation,Optimized for medium sizes
+30,Josefin Sans,Sans-serif,100-700,yes,geometric art-deco retro elegant,yes,Josefin Slab,Boutiques vintage fashion,1920s geometric art deco feel
+31,Jost,Sans-serif,100-900,yes,geometric modern clean precise,yes,Cormorant Garamond,Luxury brands minimal,German geometric precision
+32,Quicksand,Sans-serif,300-700,yes,rounded friendly light minimal,yes,Open Sans,Lifestyle wellness gentle,Rounded stems minimal contrast
+33,Exo 2,Sans-serif,100-900,yes,futuristic tech geometric sci-fi,yes,Open Sans,Tech gaming AI,Technological geometric
+34,Oxanium,Display,200-800,yes,futuristic tech angular display,no,Open Sans,Gaming tech cyber,Futuristic angular display
+35,Playfair Display,Serif,400-900,yes,elegant literary classic sophisticated,yes,Lato,Luxury editorial publishing,High contrast transitional serif
+36,Merriweather,Serif,300-900,no,readable warm traditional text,yes,Open Sans,Long-form blogs news,Designed for screen reading
+37,Lora,Serif,400-700,yes,warm humanist literary brushed,yes,Source Sans 3,Blogs editorial content,Moderate contrast brushed curves
+38,Cormorant Garamond,Serif,300-700,yes,elegant luxury refined display,yes,Jost,Luxury fashion fine dining,Ultra-high contrast inspired by Garamond
+39,Fraunces,Serif,100-900,yes,optical vintage literary display,no,Manrope,Publishing editorial creative,Variable optical size wobbly personality
+40,EB Garamond,Serif,400-800,yes,classical elegant scholarly literary,yes,Source Sans 3,Academic publishing traditional,Revival of 16th century Garamond
+41,Libre Baskerville,Serif,400-700,no,classic bold traditional text,yes,Source Sans 3,Blogs academic documentation,Optimized for body text on screen
+42,Spectral,Serif,200-800,yes,screen-optimized modern text,no,Source Sans 3,E-reading content apps,Google Fonts reading-optimized
+43,Cardo,Serif,400-700,no,classical scholarly historical,no,Lato,Academic historical content,For classical and scholarly text
+44,Crimson Pro,Serif,200-900,yes,editorial literary warm humanist,yes,Work Sans,Literature editorial blogs,Contemporary humanist serif
+45,Arvo,Serif,400-700,no,slab sturdy strong technical,yes,Lato,Technical blogs sports,Geometric slab serif sturdy
+46,Josefin Slab,Slab Serif,100-700,yes,geometric art-deco retro structured,yes,Josefin Sans,Vintage boutiques retro,Geometric slab art deco
+47,Rokkitt,Slab Serif,100-900,yes,slab strong heading display,yes,Open Sans,News sports agencies,Geometric slab heading
+48,Zilla Slab,Slab Serif,300-700,no,editorial structured news,no,Open Sans,News editorial Mozilla,Mozilla's editorial brand font
+49,Space Mono,Monospace,400-700,no,monospace tech geometric display heading,yes,Inter,Developer tools code branding,Geometric monospace display personality
+50,JetBrains Mono,Monospace,100-800,yes,code developer programming readable,yes,Inter,Developer tools code editors,Designed for code with ligatures
+51,Fira Code,Monospace,300-700,yes,code ligatures programming developer,yes,Inter,Developer tools editors,Programming ligatures clear
+52,Source Code Pro,Monospace,200-900,yes,code readable programming adobe,yes,Source Sans 3,Code documentation developer,Adobe's readable coding font
+53,IBM Plex Mono,Monospace,100-700,no,ibm technical systematic code,yes,IBM Plex Sans,IBM products developer tools,IBM design system consistency
+54,Roboto Mono,Monospace,100-700,yes,google code clean data,yes,Roboto,Technical docs code data,Google system mono companion
+55,DM Mono,Monospace,300-500,no,clean minimal code geometric,yes,DM Sans,Minimal code tools,DM family mono companion
+56,Inconsolata,Monospace,200-900,yes,code narrow tight developer,yes,Source Sans 3,Code blocks technical docs,Narrow humanist monospace
+57,Chivo Mono,Monospace,100-900,yes,grotesque mono clean systematic,no,Chivo,Developer tools systematic,Grotesque DNA mono companion
+58,Bebas Neue,Display,400,no,bold condensed display impact uppercase,yes,Lato,Sports fitness gaming impact,Ultra-bold condensed all-caps
+59,Oswald,Display,200-700,yes,bold condensed news impact strong,yes,Source Sans 3,News sports headlines,Condensed updated Franklin Gothic
+60,Righteous,Display,400,no,retro rounded friendly consumer,yes,Open Sans,Food casual consumer,Warm retro personality
+61,Abril Fatface,Display,400,no,ultra-bold display impact fashion,yes,Lato,Fashion editorial impact,Extreme weight contrast display
+62,Alfa Slab One,Display,400,no,chunky slab display impact bold,yes,Source Sans 3,Advertising sports bold,Ultra heavy slab display
+63,Bangers,Display,400,no,comic bold playful fun caps,yes,Open Sans,Games kids entertainment,Comic book display personality
+64,Pacifico,Handwriting,400,no,friendly script casual retro brand,yes,Open Sans,Casual food brands lifestyle,Friendly retro script
+65,Caveat,Handwriting,400-700,yes,handwritten casual notes informal,yes,Nunito,Notes apps casual,Natural handwritten style
+66,Dancing Script,Handwriting,400-700,yes,elegant script feminine cursive,yes,Open Sans,Wedding beauty lifestyle,Lively script with calligraphic feel
+67,Permanent Marker,Handwriting,400,no,marker handwritten casual bold,yes,Nunito,Creative casual apps,Marker pen realistic handwriting
+68,Sacramento,Handwriting,400,no,elegant script luxury calligraphy,no,Lato,Wedding luxury invitations,Thin elegant calligraphy script
+69,Indie Flower,Handwriting,400,no,fun informal doodle light,yes,Open Sans,Kids education casual,Handwritten doodle personality
+70,Noto Serif,Serif,100-900,yes,multilingual global text readable,yes,Noto Sans,International multilingual,Global multilingual serif support
+71,IBM Plex Sans,Sans-serif,100-700,no,ibm systematic professional tech,yes,IBM Plex Serif,IBM products enterprise,IBM design language precision
+72,IBM Plex Serif,Serif,100-700,no,ibm classical editorial technical,yes,IBM Plex Sans,IBM editorial content,IBM classical editorial serif
+73,Unbounded,Display,200-900,yes,bold web3 wide modern display,no,Inter,Crypto NFT blockchain modern,Extra-wide variable display
+74,Syne,Display,400-800,yes,creative bold artistic variable,no,Space Grotesk,Creative agencies portfolios,Artistic variable display
+75,Clash Display,Display,200-700,yes,modern bold premium brand heading,no,Satoshi,Premium brand landing pages,Clash Grotesk display variant
+76,Satoshi,Sans-serif,300-900,yes,modern clean minimal premium,no,Clash Display,Modern startups premium,Contemporary Swiss influenced
+77,Cabinet Grotesk,Display,100-900,yes,bold expressive modern heading,no,Manrope,Modern SaaS creative,Expressive weights from thin to ultra
+78,Epilogue,Sans-serif,100-900,yes,neutral modern startup clean,no,Inter,Startup products apps,Neutral variable for product interfaces
+79,Red Hat Display,Display,300-900,yes,redhat tech systematic display,no,Red Hat Text,Enterprise developer tools,Red Hat brand system display
+80,Red Hat Text,Sans-serif,300-700,yes,redhat tech systematic text,no,Red Hat Display,Enterprise documentation,Red Hat brand system text
+81,Funnel Display,Display,300-800,yes,funnel bold modern brand heading,no,Inter,SaaS landing pages startup,Bold modern brand display variable
+82,Instrument Serif,Serif,400,no,editorial refined modern italic,no,Instrument Sans,Editorial modern refined,Instrument family serif companion
